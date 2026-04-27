@@ -11,7 +11,7 @@ Potential application in improved embryo selection during IVF
 
 The ultimate goal is to shift healthcare from reactive treatment to predictive, preventive, and personalized medicine.
 
-                       ┌──────────────────────┐
+                                          ┌──────────────────────┐
                        │   Input Data Sources │
                        └──────────┬───────────┘
                                   │
